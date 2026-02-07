@@ -1,2 +1,4 @@
-# lfs-package-manager
-A package manager using the fake root logic written in python, inspired by Debian Packaging
+# Melo Package Manager
+A
+package manager for LFS implementing fake root package management,
+written in perl, inspired by Debian Packaging.
